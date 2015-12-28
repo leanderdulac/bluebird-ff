@@ -4,7 +4,7 @@
   "description": "Functional/Control-Flow utilities for Bluebird",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "script/test"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,8 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "chai-as-promised": "^5.2.0",
+    "coveralls": "^2.11.6",
+    "istanbul": "^0.4.1",
     "mocha": "^2.3.4"
   }
 }
