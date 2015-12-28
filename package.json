@@ -1,0 +1,33 @@
+{
+  "name": "bluebird-ff",
+  "version": "1.0.0",
+  "description": "Functional/Control-Flow utilities for Bluebird",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pagarme/bluebird-ff.git"
+  },
+  "keywords": [
+    "bluebird",
+    "promise",
+    "promises",
+    "flow"
+  ],
+  "author": "Jonathan Lima <jonathan@pagar.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pagarme/bluebird-ff/issues"
+  },
+  "homepage": "https://github.com/pagarme/bluebird-ff#readme",
+  "dependencies": {
+    "bluebird": "^2.10.2"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.2.0",
+    "mocha": "^2.3.4"
+  }
+}
