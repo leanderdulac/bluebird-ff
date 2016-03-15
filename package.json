@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/pagarme/bluebird-ff#readme",
   "dependencies": {
-    "bluebird": "^2.10.2"
+    "bluebird": "^3.3.4"
   },
   "devDependencies": {
     "chai": "^3.4.1",
