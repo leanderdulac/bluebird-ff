@@ -1,6 +1,6 @@
 {
   "name": "bluebird-ff",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Functional/Control-Flow utilities for Bluebird",
   "main": "lib/index.js",
   "scripts": {
