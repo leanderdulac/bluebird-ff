@@ -53,6 +53,10 @@ return Promise.resolve(customerIds)
 });
 ```
 
+## propsWithErrors(promises)
+
+Like Promise.props, but returning AggregateError with each error.
+
 # License
 
 Check [here](LICENSE).
